@@ -4,10 +4,12 @@ import GooglePay from './Sample';
 function App() {
   return (
     <div className="App">
-      <GooglePay/>
-      
+    
+      <GooglePay />
+
     </div>
   );
 }
 
 export default App;
+ 

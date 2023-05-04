@@ -1,12 +1,10 @@
 .App {
   text-align: center;
   height: 100vh;
-  width: auto;
-  justify-content: center;
-  background-color: #fff;
-  justify-items: center;
-  
+  background-blend-mode: hard-light;
+  background-color: beige;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
